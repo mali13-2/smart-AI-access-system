@@ -60,7 +60,7 @@ pip install deepface opencv-python pyserial numpy pillow
 2. Run Python Script
 python face_reader_deep.py
 3. Upload Arduino Code
-Use Arduino IDE into upload mahamarduino.ino
+Use Arduino IDE into upload arduino.ino
 
 # How to Run the System
 -Power Arduino
