@@ -30,7 +30,7 @@ Access is granted only when:
 5. Arduino unlocks lock for a few seconds  
 6. Motor re-locks automatically
    
-#Hardware Used
+# Hardware Used
 - Arduino UNO / Mega 
 - RC522 RFID reader
 - RFID card
