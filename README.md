@@ -82,5 +82,6 @@ Maham Ali
 Smart AI Access System — 2025
 Department of Information Technology
 
-## 📂 Project Structure
+# video link 
+https://www.youtube.com/watch?v=EQ8Ic81BSSk&t=55s
 
